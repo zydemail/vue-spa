@@ -12,7 +12,7 @@
 
 [DEMO](https://h5.baike.qq.com/mobile/home.html?VNK=80c0b23a)
 
-[CODE] http://git.code.oa.com/MedicalBaiKe/navigation.git
+
 
 ```
 
@@ -20,12 +20,12 @@
 
 ### Basic Usage
 
-入口js引入
+入口js引入dist目录下的vue-navigation.esm或者将src目录下面代码作为组件直接引用
 
 ```javascript
 import Vue from 'vue'
 import router from './router' // vue-router instance
-import Navigation from '@tencent/navigation'
+import Navigation from './dist/vue-navigation.esm'
 
 Vue.use(Navigation, {router})
 // bootstrap your app...
