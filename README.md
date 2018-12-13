@@ -10,7 +10,8 @@
 
 ### DEMO
 
-[DEMO](https://h5.baike.qq.com/mobile/home.html?VNK=80c0b23a)
+[腾讯医典](https://h5.baike.qq.com/mobile/home.html?VNK=80c0b23a)
+[内容开放平台](https://info.baike.qq.com/mobile/home.html?VNK=948a4707)
 
 
 
